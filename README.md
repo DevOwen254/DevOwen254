@@ -16,6 +16,6 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=DevOwen254&show_icons=true&theme=radical)
 
 ## 📬 Connect With Me
-- [whatsapp]:(https://api.whatsapp.com/message/FGRKRFOZYH4YI1?autoload=1&app_absent=0)
+- ![whatsapp](https://api.whatsapp.com/message/FGRKRFOZYH4YI1?autoload=1&app_absent=0)
 - Email: devowen254@gmail.com
 - Discord: devowen254
